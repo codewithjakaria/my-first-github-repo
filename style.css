@@ -1,0 +1,35 @@
+.container {
+  border: 2px solid yellowgreen;
+  padding: 10px;
+  background-color: blanchedalmond;
+  box-shadow: 10px 10px 5px grey;
+  border-radius: 40px 20px;
+  box-sizing: border-box;
+  width: auto;
+  height: 200px;
+  text-align: center;
+  background-image: url(pngtree-a-background-of-orange-blue-and-yellow-gradients-with-gritty-appearance-image_16233934.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 10px;
+}
+.container:hover {
+  box-shadow: 15px 15px 10px darkgrey;
+}
+
+#bangladesh {
+  color: black;
+  border: 2px solid rgb(37, 113, 148);
+  border-radius: 50px;
+  margin: 10px;
+  margin-top: 20px;
+  padding: 10px;
+  height: 250px;
+  text-align: center;
+  background-image: url(new\ images.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#bangladesh:hover {
+  box-shadow: 15px 15px 10px darkgrey;
+}
